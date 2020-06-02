@@ -1,5 +1,7 @@
 {
   "name": "SampleHttp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
